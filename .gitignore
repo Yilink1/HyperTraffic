@@ -1,0 +1,17 @@
+# Build files
+build/
+.gradle/
+release/
+local.properties
+*.apk
+*.ap_
+*.idsig
+
+# Keystores & sensitive keys
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+.vscode/
