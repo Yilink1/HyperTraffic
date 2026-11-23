@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">修复澎湃控制中心流量显示</string>
-    <string name="app_description">解除 HyperOS 云控限制，恢复控制中心剩余流量显示。启用后请强行停止作用域应用</string>
-</resources>
