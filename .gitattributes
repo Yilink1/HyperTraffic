@@ -2,3 +2,5 @@
 gradlew linguist-vendored
 gradlew.bat linguist-vendored
 gradle/* linguist-vendored
+gradle/** linguist-vendored
+*.bat linguist-detectable=false
